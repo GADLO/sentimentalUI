@@ -1,0 +1,22 @@
+{
+  "name": "sentimentalui",
+  "version": "1.0.0",
+  "description": "sentimental works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GADLO/sentimentalUI.git"
+  },
+  "keywords": [
+    "UI"
+  ],
+  "author": "Darren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GADLO/sentimentalUI/issues"
+  },
+  "homepage": "https://github.com/GADLO/sentimentalUI#readme"
+}
